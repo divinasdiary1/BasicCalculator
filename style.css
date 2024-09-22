@@ -15,7 +15,7 @@
     padding: 40px;
     border-radius: 20px;
     background-color: azure;  
-}
+} /* calculator display */
 .calculatorapp input[type="button"]{
     padding: 20px;
     border-radius: 10px;
@@ -25,7 +25,7 @@
     font-family:monospace;
     font-style: bold;
     margin-bottom: 5%;
-}
+}/* calculator buttons */
 .calculatorapp input[type="text"]{
     padding: 20px;
     margin-bottom: 10%;
@@ -35,7 +35,3 @@
     font-family: monospace;
     font-size: larger;
 }
-/*s
-dfkjsldji
-socmmentfdjkhfkuwiuertuerytiuyerituyeiurytu
-*ssdfisdjfiasdliksha
